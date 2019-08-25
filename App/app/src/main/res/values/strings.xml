@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Grapher</string>
+    <string name="complex_camera_button">Camera</string>
+    <string name="complex_arrow_button">Evaluate</string>
+    <string name="complex_zero_button">Zero Finder</string>
+    <string name="complex_f_of_z_label">f(z)=</string>
+    <string name="differential_force_x_label">ForceX(x,y)=</string>
+    <string name="differential_force_y_label">ForceY(x,y)=</string>
+    <string name="differential_ticks_per_second_label">ticks per second:</string>
+    <string name="standard_grapher_button">Standard Grapher</string>
+    <string name="complex_grapher_button">Complex Grapher</string>
+    <string name="differential_grapher_button">Differential Grapher</string>
+    <string name="parametric_grapher_button">Parametric Grapher</string>
+    <string name="parametric_camera_button">Camera</string>
+    <string name="parametric_evaluator_button">F(t)</string>
+    <string name="parametric_length_button">length</string>
+    <string name="parametric_f_X_label">x(t)=</string>
+    <string name="parametric_f_Y_label">y(t)=</string>
+    <string name="parametric_t_start_label">t start:</string>
+    <string name="parametric_t_end_label">t end:</string>
+    <string name="parametric_number_of_steps_label"># steps:</string>
+    <string name="polar_grapher_button">Polar Grapher</string>
+    <string name="polar_camera_button">Camera</string>
+    <string name="polar_evaluator_button">R(\u03B8)</string>
+    <string name="polar_integrator_button">\u222B</string>
+    <string name="polar_length_button">length</string>
+    <string name="polar_swap_grids_button">Swap Grids</string>
+    <string name="polar_f_of_theta_label">f(\u03B8)=</string>
+    <string name="polar_t_start_label">t start:</string>
+    <string name="polar_t_end_label">t end:</string>
+    <string name="polar_number_of_steps_label"># steps:</string>
+    <string name="standard_camera_button">Camera</string>
+    <string name="standard_evaluator_button">f(x)</string>
+    <string name="standard_derivative_button">f\'(x)</string>
+    <string name="standard_integration_button">\u222B</string>
+    <string name="standard_newtons_method_button">Newton\'s Method</string>
+    <string name="standard_min_max_button">Min/Max</string>
+    <string name="standard_length_button">length</string>
+    <string name="standard_y_equals_label">y(x)=</string>
+    <string name="three_d_grapher_button">3-D Grapher</string>
+    <string name="three_d_camera_button">Camera</string>
+    <string name="three_d_evaluate_button">Z(x,y)</string>
+    <string name="three_d_gradient_button">Z\'(x,y)</string>
+    <string name="three_d_integrator_button">\u222B\u222B</string>
+    <string name="three_d_max_min_button_max_mode">Max</string>
+    <string name="three_d_max_min_button_min_mode">Min</string>
+    <string name="three_d_f_of_z_label">Z(x,y)=</string>
+    <string name="three_d_min_label">min=</string>
+    <string name="three_d_max_label">max=</string>
+    <string name="input_popup_title_label">Input</string>
+</resources>

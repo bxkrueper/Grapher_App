@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="invalidText">#FF0000</color>
+    <color name="validText">#000000</color>
+    <color name="selectedButton">#444444</color>
+    <color name="unSelectedButton">#888888</color>
+    <color name="majorGridLines">#333333</color>
+    <color name="integration">#A00000FF</color>
+    <color name="length">#0000FF</color>
+    <color name="derivative">#0000FF</color>
+    <color name="point">#0000FF</color>
+    <color name="line_boundary">#FF0000</color>
+    <color name="ai_path">#FF0000</color>
+    <color name="screen_text">#000000</color>
+</resources>

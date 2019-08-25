@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keyWidth="12.5%p"
+    android:keyHeight="7.5%p">
+
+    <Row>
+
+        <Key
+            android:keyEdgeFlags="left"
+            android:codes="1012"
+            android:keyLabel="sin" />
+
+        <Key
+            android:codes="1009"
+            android:keyLabel='csc' />
+
+        <Key
+            android:codes="1002"
+            android:keyLabel='arcsin' />
+
+        <Key
+            android:codes="1016"
+            android:keyLabel='sinh' />
+    </Row>
+
+</Keyboard>

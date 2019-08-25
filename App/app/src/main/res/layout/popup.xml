@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+for the small keyboard that pops up when holding a button on another keyboard (single characters only)
+-->
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:keyHeight="10%p"
+    android:layout_height="50dp"  android:layout_width="50dp">
+</Keyboard>
